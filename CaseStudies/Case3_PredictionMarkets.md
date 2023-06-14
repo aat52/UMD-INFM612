@@ -18,4 +18,4 @@ Each team please prepare and submit a video presentation (approximately 5-6 slid
 |The presentation demonstrates evidence of analysis.|2/2|
 |Claims in the presentation are supported by facts or reasoning.|2/2|
 |The team communicates the analysis effectively.|2/2|
-|The team makes valuable contributions to online discussion of the case.|1.6/2|
+|The team makes valuable contributions to online discussion of the case.|2/2|
