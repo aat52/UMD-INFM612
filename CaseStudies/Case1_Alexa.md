@@ -9,7 +9,7 @@ Each team please prepare and submit a video presentation (approximately 5-6 slid
 - How can Amazon improve the accuracy of Alexa responses?
 - How can Amazon improve the monetization of Alexa?
 
-
+### Submission: https://docs.google.com/presentation/d/1uvt0VOdFererjGPN1uNMfMBEYnLz4YbATooi5uzqdl4/edit?usp=sharing
 ## Score: 9.8/10
 ### Feedback:
 Thanks for your clarification! Next time, if you ask a separate question, please do not embed your question in other questions (mine or other teams). Also please include the number of the team you ask the question to and your own team number. Thanks!
