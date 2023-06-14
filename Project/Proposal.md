@@ -13,3 +13,12 @@ In your project proposal, please include the following items:
 - (Optional) Other important thoughts, information, or questions for the instructor to know
 
 Please submit your team's proposal of no more one page and in any format here.
+
+## Feedback
+
+With much interest and enthusiasm, I read both proposals. Since there has been a ton of published literature on remote/hybrid work, I suggest you pursue the first topic on AI in the workplace. However, the first topic is still too broad. Can you narrow it down? For example, if you are interested in how AI might enhance, rather than replace human workers, can you pick a particular industry (banking, professional legal service, higher education…) so you can have a more concrete discussion about AI in a specific setting? Or, you could select a specific function such as marketing, supply chain management, customer service. Although the first topic is better than the second, please find a specific angle to study the first topic.
+
+For your interest, here are some possibly useful readings on this topic, just to get you started.
+[Huang+2019CMR](https://umd.instructure.com/files/72240200/download?download_frd=1&verifier=AodPBz3qPexlXeZhFBXaEc8oM2UHnWNKSJOA5NPB)
+[Lepore2019TheRobotCaravan](https://umd.instructure.com/files/72240205/download?download_frd=1&verifier=NEE9zTaw99p3OBW2oHYfF8XNri1XAlOpIVVTUkZt)
+[TechQuarterlyAIandItsLimits](https://umd.instructure.com/files/72240215/download?download_frd=1&verifier=dQze6qeuD3vdvq9IHYuyXS0SRaevxZt5fnVT14NP)
